@@ -26,6 +26,4 @@ export {
     ProductList,
     SignUp,
     Orders,
-    DummySignUp,
-    DummyLogin,
 }
