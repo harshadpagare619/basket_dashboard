@@ -10,8 +10,7 @@ import ProductEdit from './ProductEdit/ProductEdit';
 import ProductList from './ProductList/ProductList';
 import SignUp from './SignUp/SignUp';
 import Orders from './Orders/Orders';
-import DummySignUp from './DummySignUp/DummySignUp';
-import DummyLogin from './DummyLogin/DummyLogin';
+
 
 export {
     BrandAdd,

@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext } from "react";
 import {MyContext} from '../../App';
-import { editData, fetchDataFromApi, editProductData } from "../../utils/api";
+import { editData, fetchDataFromApi} from "../../utils/api";
 import { useParams } from "react-router-dom";
 import { emphasize,styled } from '@mui/material/styles';
 import Breadcrumbs from '@mui/material/Breadcrumbs';
