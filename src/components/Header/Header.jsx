@@ -15,7 +15,7 @@ import Divider from '@mui/material/Divider';
 import PersonAdd from '@mui/icons-material/PersonAdd';
 import Logout from '@mui/icons-material/Logout';
 import Logo from '../../assets/images/Logo.png';
-import UserImg from '../../assets/images/userimg.png'
+import UserImg from '../../assets/images/userImg.png'
 
 
 function Header() {
